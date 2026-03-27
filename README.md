@@ -10,17 +10,13 @@ Currently open to **Junior Backend Developer** roles. Especially interested in *
 
 ## 🛠️ Tech Stack
 
-**Languages & Backend**
-`Python` `Django` `Django REST Framework` `SQL`
-
-**Database & Async**
-`PostgreSQL` `Redis` `Celery`
-
-**DevOps & Infrastructure**
-`Docker` `Docker Compose` `Linux` `Git` `GitHub`
-
-**Frontend (basics)**
-`HTML/CSS` 
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | Python (OOP, Async), SQL, HTML/CSS |
+| **Backend** | Django, Django REST Framework (DRF) |
+| **Database & Async** | PostgreSQL, Redis, Celery |
+| **DevOps** | Docker, Docker Compose, Linux, Git/GitHub |
+| **Frontend (basics)** | React(Learning), HTMX(Learning) |
 
 ---
 
@@ -60,16 +56,10 @@ Currently open to **Junior Backend Developer** roles. Especially interested in *
 
 ---
 
-## 📊 GitHub Stats
-
-![Satyajit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=satyajitkr1&show_icons=true&theme=default&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=satyajitkr1&layout=compact&theme=default&hide_border=true)
-
----
 
 ## 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-satyajitkr1-blue?style=flat&logo=linkedin)](https://linkedin.com/in/satyajitkr1)
-[![Email](https://img.shields.io/badge/Email-reach%20out-red?style=flat&logo=gmail)](mailto:your@email.com)
+[![Email](https://img.shields.io/badge/Email-reach%20out-red?style=flat&logo=gmail)](mailto:satyajitkumar2472@gmail.com)
 
 > *"I didn't take the traditional CS path — and that's exactly what makes my perspective different."*
