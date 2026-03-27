@@ -60,6 +60,6 @@ Currently open to **Junior Backend Developer** roles. Especially interested in *
 ## 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-satyajitkr1-blue?style=flat&logo=linkedin)](https://linkedin.com/in/satyajitkr1)
-[![Email](https://img.shields.io/badge/Email-reach%20out-red?style=flat&logo=gmail)](satyajitkumar2472@gmail.com)
+[![Email](https://img.shields.io/badge/Email-reach%20out-red?style=flat&logo=gmail)](mailto:satyajitkumar2472@gmail.com)
 
 > *"I didn't take the traditional CS path — and that's exactly what makes my perspective different."*
